@@ -1,4 +1,4 @@
-# Dash Master
+# Sprintmaster
 
 *A pair of pink leather boots. Radiates an aura of transmutation magic.*
 

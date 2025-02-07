@@ -1,4 +1,4 @@
-# Dash Master
+# Dashmaster
 
 *A pair of blue leather boots. Radiates an aura of transmutation magic.*
 
