@@ -1,4 +1,4 @@
-# Isma's Tear
+# [Isma's Tear](https://hollowknight.wiki/w/Isma%27s_Tear)
 
 *A green nephrite stone shaped like a large tear. Radiates an aura of abjuration magic.*
 

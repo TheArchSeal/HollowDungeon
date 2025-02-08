@@ -1,4 +1,4 @@
-# Hunter's Journal
+# [Hunter's Journal](https://hollowknight.wiki/w/Hunter%27s_Journal)
 
 *A leather bound journal*
 

@@ -1,4 +1,4 @@
-# Lifeblood Core
+# [Lifeblood Core](https://hollowknight.wiki/w/Lifeblood_Core)
 
 *A glass vessel containing a moderate amount of blue liquid. Radiates an aura of necromancy magic.*
 

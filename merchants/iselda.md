@@ -1,4 +1,4 @@
-# Iselda
+# [Iselda](https://hollowknight.wiki/w/Iselda)
 
 *A female human with a pony tail in a blue dress.*
 

@@ -1,4 +1,4 @@
-# Joni's Blessing
+# [Joni's Blessing](https://hollowknight.wiki/w/Joni%27s_Blessing)
 
 *A glass vessel filled with a blue liquid. Radiates an aura of necromancy magic.*
 

@@ -1,4 +1,4 @@
-# Lumafly Lantern
+# [Lumafly Lantern](https://hollowknight.wiki/w/Lumafly_Lantern)
 
 *A lantern with fireflies trapped inside.*
 

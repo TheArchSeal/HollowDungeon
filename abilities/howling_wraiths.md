@@ -1,4 +1,4 @@
-# Howling Wraiths
+# [Howling Wraiths](https://hollowknight.wiki/w/Howling_Wraiths)
 
 *A spell scroll containing a long forgotten spell. Seems tougher than most spell scrolls.*
 

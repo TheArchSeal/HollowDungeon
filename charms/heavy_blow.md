@@ -1,4 +1,4 @@
-# Heavy Blow
+# [Heavy Blow](https://hollowknight.wiki/w/Heavy_Blow)
 
 *Three daggers welder together along their blades. Radiates an aura of transmutation magic.*
 

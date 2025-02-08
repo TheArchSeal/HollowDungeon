@@ -1,4 +1,4 @@
-# Mantis Claw
+# [Mantis Claw](https://hollowknight.wiki/w/Mantis_Claw)
 
 *A very atypical but very effective climber's kit. Radiates an aura of transmutation magic.*
 

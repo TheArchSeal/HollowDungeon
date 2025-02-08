@@ -1,4 +1,4 @@
-# Unbreakable Strength
+# [Unbreakable Strength](https://hollowknight.wiki/w/Fragile_Strength)
 
 *A sharpening stone. Radiates an aura of transmutation magic.*
 

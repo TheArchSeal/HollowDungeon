@@ -1,4 +1,4 @@
-# Hiveblood
+# [Hiveblood](https://hollowknight.wiki/w/Hiveblood)
 
 *A panel of honeycomb. Radiates an aura of abjuration magic.*
 

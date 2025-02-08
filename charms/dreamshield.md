@@ -1,4 +1,4 @@
-# Dreamshield
+# [Dreamshield](https://hollowknight.wiki/w/Dreamshield)
 
 *A shield with golden spikes pointing out from its center. Radiates an aura of abjuration.*
 

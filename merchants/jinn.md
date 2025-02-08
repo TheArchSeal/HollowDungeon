@@ -1,4 +1,4 @@
-# Steel Soul Jinn
+# [Steel Soul Jinn](https://hollowknight.wiki/w/Jinn)
 
 *A female warforged made from a shiny metal.*
 

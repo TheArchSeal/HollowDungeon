@@ -1,4 +1,4 @@
-# Shaman Stone
+# [Shaman Stone](https://hollowknight.wiki/w/Shaman_Stone)
 
 *An orb made of topaz. Radiates an aura of evacation magic.*
 

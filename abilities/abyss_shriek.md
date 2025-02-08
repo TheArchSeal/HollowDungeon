@@ -1,4 +1,4 @@
-# Abyss Shriek
+# [Abyss Shriek](https://hollowknight.wiki/w/Abyss_Shriek)
 
 *A spell scroll containing a long forgotten spell. Seems tougher than most spell scrolls.*
 

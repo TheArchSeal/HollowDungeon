@@ -1,4 +1,4 @@
-# Dreamgate
+# [Dreamgate](https://hollowknight.wiki/w/Dreamgate)
 
 *A dagger with a pink shimmering blade with yellow strands running along it. Radiates an aura of divination.*
 

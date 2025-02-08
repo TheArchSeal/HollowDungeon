@@ -1,4 +1,4 @@
-# Mothwing Cloak
+# [Mothwing Cloak](https://hollowknight.wiki/w/Mothwing_Cloak)
 
 *A dark frayed cloak. Radiates an aura of conjuration magic.*
 

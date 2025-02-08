@@ -1,4 +1,4 @@
-# Dream Nail
+# [Dream Nail](https://hollowknight.wiki/w/Dream_Nail)
 
 *A dagger with a pink shimmering blade. Radiates an aura of divination.*
 

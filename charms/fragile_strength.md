@@ -1,4 +1,4 @@
-# Fragile Strength
+# [Fragile Strength](https://hollowknight.wiki/w/Fragile_Strength)
 
 *A sharpening stone inside a glass sphere. Radiates an aura of transmutation magic.*
 

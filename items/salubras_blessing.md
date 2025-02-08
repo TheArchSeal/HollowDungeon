@@ -1,4 +1,4 @@
-# Salubra's Blessing
+# [Salubra's Blessing](https://hollowknight.wiki/w/Salubra%27s_Blessing)
 
 *You receive a big hug and a wet kiss on the chin.*
 

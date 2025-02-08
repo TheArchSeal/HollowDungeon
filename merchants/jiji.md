@@ -1,4 +1,4 @@
-# Confessor Jiji
+# [Confessor Jiji](https://hollowknight.wiki/w/Jiji)
 
 *A female svirfneblin in a dark robe and black turban.*
 

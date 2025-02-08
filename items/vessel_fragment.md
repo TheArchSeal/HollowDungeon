@@ -1,4 +1,4 @@
-# Vessel Fragment
+# [Vessel Fragment](https://hollowknight.wiki/w/Vessel_Fragment)
 
 One third of a tiefling's tail glowing brightly white. Radiates an aura of enchantment magic.
 

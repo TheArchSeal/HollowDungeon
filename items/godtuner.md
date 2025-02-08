@@ -1,4 +1,4 @@
-# Godtuner
+# [Godtuner](https://hollowknight.wiki/w/Godtuner)
 
 *A bronze disc with the faces of mighty warriors painted onto it. Radiates an aura of enchantment magic.*
 

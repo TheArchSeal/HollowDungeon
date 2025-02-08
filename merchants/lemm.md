@@ -1,4 +1,4 @@
-# Relic Seeker Lemm
+# [Relic Seeker Lemm](https://hollowknight.wiki/w/Lemm)
 
 *A male human with a long white beard in a warm coat.*
 

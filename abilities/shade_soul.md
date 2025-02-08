@@ -1,4 +1,4 @@
-# Shade Soul
+# [Shade Soul](https://hollowknight.wiki/w/Shade_Soul)
 
 *A spell scroll containing a long forgotten spell. Seems tougher than most spell scrolls.*
 

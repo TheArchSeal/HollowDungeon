@@ -1,4 +1,4 @@
-# Baldur Shell
+# [Baldur Shell](https://hollowknight.wiki/w/Baldur_Shell)
 
 *A shell made of lapis lazuli. Radiates an aura of abjuration magic.*
 

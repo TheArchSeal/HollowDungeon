@@ -1,4 +1,4 @@
-# Unbreakable Heart
+# [Unbreakable Greed](https://hollowknight.wiki/w/Fragile_Greed#Unbreakable_Greed)
 
 *A pickaxe with golden ornaments. Radiates an aura of conjuration magic.*
 

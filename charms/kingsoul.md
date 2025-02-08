@@ -1,4 +1,4 @@
-# Kingsoul
+# [Kingsoul](https://hollowknight.wiki/w/Kingsoul)
 
 *The petrified head of a child. Radiates an aura of abjuration magic.*
 

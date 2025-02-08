@@ -1,4 +1,4 @@
-# Steady Body
+# [Steady Body](https://hollowknight.wiki/w/Steady_Body)
 
 *A red belt with an iron buckle. Radiates an aura of transmutation magic.*
 

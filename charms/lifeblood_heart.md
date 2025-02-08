@@ -1,4 +1,4 @@
-# Lifeblood Heart
+# [Lifeblood Heart](https://hollowknight.wiki/w/Lifeblood_Heart)
 
 *A glass vessel containing a small amount of blue liquid. Radiates an aura of necromancy magic.*
 

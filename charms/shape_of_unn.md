@@ -1,4 +1,4 @@
-# Shape of Unn
+# [Shape of Unn](https://hollowknight.wiki/w/Shape_of_Unn)
 
 *A petrified slug. Radiates an aura of transmutation magic.*
 

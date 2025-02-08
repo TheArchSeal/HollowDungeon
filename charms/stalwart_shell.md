@@ -1,4 +1,4 @@
-# Stalwart Shell
+# [Stalwart Shell](https://hollowknight.wiki/w/Stalwart_Shell)
 
 *A copper shell. Radiates an aura of abjuration magic.*
 

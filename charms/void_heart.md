@@ -1,4 +1,4 @@
-# Void Heart
+# [Void Heart](https://hollowknight.wiki/w/Void_Heart)
 
 *The petrified head of a child drenched in tar. Radiates an aura of enchantment magic.*
 

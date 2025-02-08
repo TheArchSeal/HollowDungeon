@@ -1,4 +1,4 @@
-# Fury of the Fallen
+# [Fury of the Fallen](https://hollowknight.wiki/w/Fury_of_the_Fallen)
 
 *A blood covered statuette resembling a fire elemental. Radiates evocation magic.*
 

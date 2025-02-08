@@ -1,4 +1,4 @@
-# Mark of Pride
+# [Mark of Pride](https://hollowknight.wiki/w/Mark_of_Pride)
 
 *An arrowhead made of gold. Radiates transmutation magic.*
 

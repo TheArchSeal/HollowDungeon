@@ -1,4 +1,4 @@
-# The Last Stag
+# [The Last Stag](https://hollowknight.wiki/w/Last_Stag)
 
 *A male centaur pulling a carriage.*
 

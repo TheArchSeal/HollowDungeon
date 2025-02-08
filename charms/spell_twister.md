@@ -1,4 +1,4 @@
-# Spell Twister
+# [Spell Twister](https://hollowknight.wiki/w/Spell_Twister)
 
 *An orb made from a white pear. Radiates an aura of transmutation magic.*
 

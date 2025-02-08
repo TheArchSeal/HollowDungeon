@@ -1,4 +1,4 @@
-# Carefree Melody
+# [Carefree Melody](https://hollowknight.wiki/w/Carefree_Melody)
 
 *A severed cambion's head. Radiates an aura of illusion magic.*
 

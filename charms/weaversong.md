@@ -1,4 +1,4 @@
-# Weaversong
+# [Weaversong](https://hollowknight.wiki/w/Weaversong)
 
 *A petrified spider's head. Radiates an aura of conjuration magic.*
 

@@ -1,4 +1,4 @@
-# Leg Eater
+# [Leg Eater](https://hollowknight.wiki/w/Leg_Eater)
 
 * A male lizardfolk in rags.*
 

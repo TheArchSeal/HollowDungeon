@@ -1,4 +1,4 @@
-# Great Slash
+# [Great Slash](https://hollowknight.wiki/w/Great_Slash)
 
 *The nailmaster teaches you their technique.*
 

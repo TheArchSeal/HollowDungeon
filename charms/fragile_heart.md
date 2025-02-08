@@ -1,4 +1,4 @@
-# Fragile Heart
+# [Fragile Heart](https://hollowknight.wiki/w/Fragile_Heart)
 
 *A blue pulsating heart inside a glass sphere. Radiates an aura of abjuration magic.*
 

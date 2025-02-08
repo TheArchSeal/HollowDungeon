@@ -1,4 +1,4 @@
-# Millibelle the Banker
+# [Millibelle the Banker](https://hollowknight.wiki/w/Millibelle)
 
 *A female human with glasses and a large backpack*
 

@@ -1,4 +1,4 @@
-# Delicate Flower
+# [Delicate Flower](https://hollowknight.wiki/w/Delicate_Flower)
 
 *A very brittle white flower.*
 

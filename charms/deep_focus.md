@@ -1,4 +1,4 @@
-# Deep Focus
+# [Deep Focus](https://hollowknight.wiki/w/Deep_Focus)
 
 *A pink crystal with metal ornaments. Radiates an aura of abjuration magic.*
 

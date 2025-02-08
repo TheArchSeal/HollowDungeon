@@ -1,4 +1,4 @@
-# Divine
+# [Divine](https://hollowknight.wiki/w/Divine)
 
 *A female lizardfolk with a red scarf and half of a mask.*
 

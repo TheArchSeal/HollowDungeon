@@ -1,4 +1,4 @@
-# Fragile Greed
+# [Fragile Greed](https://hollowknight.wiki/w/Fragile_Greed)
 
 *A pickaxe with golden ornaments and a glass handle. Radiates an aura of conjuration magic.*
 

@@ -1,4 +1,4 @@
-# Descending Dark
+# [Descending Dark](https://hollowknight.wiki/w/Descending_Dark)
 
 *A spell scroll containing a long forgotten spell. Seems tougher than most spell scrolls.*
 

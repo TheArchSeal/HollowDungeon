@@ -1,4 +1,4 @@
-# Nailsmith
+# [Nailsmith](https://hollowknight.wiki/w/Nailsmith)
 
 *A male orc with a large white beard in half plate armor.*
 

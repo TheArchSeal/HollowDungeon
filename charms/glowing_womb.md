@@ -1,4 +1,4 @@
-# Glowing Womb
+# [Glowing Womb](https://hollowknight.wiki/w/Glowing_Womb)
 
 *A mosquito encased in amber. Radiates an aura of conjuration magic*
 

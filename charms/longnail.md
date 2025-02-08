@@ -1,4 +1,4 @@
-# Long Nail
+# [Longnail](https://hollowknight.wiki/w/Longnail)
 
 *An arrowhead made of silver. Radiates transmutation magic.*
 

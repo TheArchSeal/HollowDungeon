@@ -1,4 +1,4 @@
-# Dream Wielder
+# [Dream Wielder](https://hollowknight.wiki/w/Dream_Wielder)
 
 *A dimly glowing dream catcher. Radiates an aura of enchantment magic.*
 

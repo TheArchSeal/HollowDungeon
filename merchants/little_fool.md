@@ -1,4 +1,4 @@
-# Little Fool
+# [Little Fool](https://hollowknight.wiki/w/Little_Fool)
 
 *A male kobold hanging upside down from chains.*
 

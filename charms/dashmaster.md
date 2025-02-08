@@ -1,4 +1,4 @@
-# Dashmaster
+# [Dashmaster](https://hollowknight.wiki/w/Dashmaster)
 
 *A pair of blue leather boots. Radiates an aura of transmutation magic.*
 

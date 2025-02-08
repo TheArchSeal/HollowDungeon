@@ -1,4 +1,4 @@
-# Vengeful Spirit
+# [Vengeful Spirit](https://hollowknight.wiki/w/Vengeful_Spirit)
 
 *A spell scroll containing a long forgotten spell. Seems tougher than most spell scrolls.*
 

@@ -1,4 +1,4 @@
-# Spore Shroom
+# [Spore Shroom](https://hollowknight.wiki/w/Spore_Shroom)
 
 *A blue mushroom with yellow spots. Radiates an aura of conjuration magic.*
 

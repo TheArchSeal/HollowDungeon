@@ -1,4 +1,4 @@
-# Charm Lover Salubra
+# [Charm Lover Salubra](https://hollowknight.wiki/w/Salubra)
 
 *A chubby female goliath in baggy clothes with many accessories.*
 

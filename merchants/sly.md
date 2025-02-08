@@ -1,4 +1,4 @@
-# Sly
+# [Sly](https://hollowknight.wiki/w/Sly)
 
 *A male halfling in a cloak.*
 

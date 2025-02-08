@@ -1,4 +1,4 @@
-# Quick Slash
+# [Quick Slash](https://hollowknight.wiki/w/Quick_Slash)
 
 *A metal crossguard resembling a pair of wings. Radiates an aura of transmutation magic.*
 

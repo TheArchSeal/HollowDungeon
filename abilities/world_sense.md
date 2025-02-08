@@ -1,4 +1,4 @@
-# World Sense
+# [World Sense](https://hollowknight.wiki/w/World_Sense)
 
 *You suddenly understand it. The world. Its magic. The souls of all the lives you've taken.*
 

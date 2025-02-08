@@ -1,4 +1,4 @@
-# Flukenest
+# [Flukenest](https://hollowknight.wiki/w/Flukenest)
 
 *A slimy pink torus made of flesh. Radiates an aura of evocation magic.*
 

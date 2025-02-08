@@ -1,4 +1,4 @@
-# Soul Eater
+# [Soul Eater](https://hollowknight.wiki/w/Soul_Eater)
 
 *An orb made from a gold. Radiates an aura of transmutation magic.*
 

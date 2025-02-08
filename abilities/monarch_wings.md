@@ -1,4 +1,4 @@
-# Mantis Claw
+# [Monarch Wings](https://hollowknight.wiki/w/Monarch_Wings)
 
 *A pair of white wings that can be worn as a cloak. Radiates an aura of transmutation magic.*
 

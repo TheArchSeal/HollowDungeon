@@ -1,4 +1,4 @@
-# Tuk
+# [Tuk](https://hollowknight.wiki/w/Tuk)
 
 *A female goliath in rags with a large backpack.*
 

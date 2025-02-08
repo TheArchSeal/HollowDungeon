@@ -1,4 +1,4 @@
-# Grubberfly's Elegy
+# [Grubberfly's Elegy](https://hollowknight.wiki/w/Grubberfly%27s_Elegy)
 
 *An oxidized copper statuette resembling a goblin with a pair of wings. Radiates an aura of evocation magic.*
 

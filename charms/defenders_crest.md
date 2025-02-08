@@ -1,4 +1,4 @@
-# Defender's Crest
+# [Defender's Crest](https://hollowknight.wiki/w/Defender%27s_Crest)
 
 *A petrified beetle. Radiates an aura of conjuration magic.*
 

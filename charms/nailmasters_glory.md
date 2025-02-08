@@ -1,4 +1,4 @@
-# Nailmaster's glory
+# [Nailmaster's glory](https://hollowknight.wiki/w/Nailmaster%27s_Glory)
 
 *A small shield made of bronze. Radiates an aura of transmutation magic.*
 

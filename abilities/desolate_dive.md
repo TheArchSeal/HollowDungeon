@@ -1,4 +1,4 @@
-# Desolate Dive
+# [Desolate Dive](https://hollowknight.wiki/w/Desolate_Dive)
 
 *A spell scroll containing a long forgotten spell. Seems tougher than most spell scrolls.*
 

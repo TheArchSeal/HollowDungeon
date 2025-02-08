@@ -1,4 +1,4 @@
-# Sprintmaster
+# [Sprintmaster](https://hollowknight.wiki/w/Sprintmaster)
 
 *A pair of pink leather boots. Radiates an aura of transmutation magic.*
 

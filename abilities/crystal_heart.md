@@ -1,4 +1,4 @@
-# Crystal Heart
+# [Crystal Heart](https://hollowknight.wiki/w/Crystal_Heart)
 
 *An amethyst crystal growing through a metal sphere. Radiates an aura of conjuration magic.*
 

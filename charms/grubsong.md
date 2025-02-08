@@ -1,4 +1,4 @@
-# Grub Song
+# [Grubsong](https://hollowknight.wiki/w/Grubsong)
 
 *An oxidized copper statuette resembling a goblin. Radiates an aura of abjuration magic.*
 

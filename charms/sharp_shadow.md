@@ -1,4 +1,4 @@
-# Sharp Shadow
+# [Sharp Shadow](https://hollowknight.wiki/w/Sharp_Shadow)
 
 *A black stone carved to resemble a set of wings. Radiates an aura of conjuration magic.*
 

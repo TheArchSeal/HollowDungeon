@@ -1,4 +1,4 @@
-# Dash Slash
+# [Dash Slash](https://hollowknight.wiki/w/Dash_Slash)
 
 *The nailmaster teaches you their technique.*
 

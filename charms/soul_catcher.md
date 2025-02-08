@@ -1,4 +1,4 @@
-# Soul Catcher
+# [Soul Catcher](https://hollowknight.wiki/w/Soul_Catcher)
 
 *An orb made of silver. Radiates an aura of transmutation magic.*
 

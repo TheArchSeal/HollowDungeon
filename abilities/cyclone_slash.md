@@ -1,4 +1,4 @@
-# Cyclone Slash
+# [Cyclone Slash](https://hollowknight.wiki/w/Cyclone_Slash)
 
 *The nailmaster teaches you their technique.*
 

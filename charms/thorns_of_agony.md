@@ -1,4 +1,4 @@
-# Thorns of Agony
+# [Thorns of Agony](https://hollowknight.wiki/w/Thorns_of_Agony)
 
 *A bundle of thorny vines. Radiates an aura of abjuration magic.*
 

@@ -1,4 +1,4 @@
-# Wayward Compass
+# [Wayward Compass](https://hollowknight.wiki/w/Wayward_Compass)
 
 *A red painted metal compass. Radiates an aura of divination magic.*
 
