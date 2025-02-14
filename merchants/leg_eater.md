@@ -1,6 +1,6 @@
 # [Leg Eater](https://hollowknight.wiki/w/Leg_Eater)
 
-* A male lizardfolk in rags.*
+*A male lizardfolk in rags.*
 
 Wearing [Defenders Crest](/charms/defenders_crest.md) gives a 20% discount on charms.
 
