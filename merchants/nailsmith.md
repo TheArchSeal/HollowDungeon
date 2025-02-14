@@ -1,6 +1,6 @@
 # [Nailsmith](https://hollowknight.wiki/w/Nailsmith)
 
-*A male half-orc with a large white beard in plate armor.*
+*A male goliath with a large white beard in plate armor.*
 
 * [Weapon](https://5e.tools/tables.html#weapons_xphb) / [Spellcasting Focus](https://5e.tools/items.html#arcane%20focus_xphb) - 2 gp
 * [Shield](https://5e.tools/tables.html#armor_xphb) - 2 gp
