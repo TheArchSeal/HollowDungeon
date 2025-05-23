@@ -4,4 +4,5 @@
 
 [Commoner](https://5e.tools/bestiary.html#commoner_xmm).
 
-Drops: Nothing
+Passive, flees when approached.  
+Drops: Nothing  
