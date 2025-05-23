@@ -7,7 +7,7 @@
 **Gear** [Club](https://5e.tools/items.html#club_xphb)  
 **Multiattack.** -  
 **Greatclub.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) bludgeoning damage.  
-**Volitile.** On death: All creatures within 10 ft. take 1d4 Fire damage and start burning.
+**Volitile.** On death: All creatures within 10 ft. take 1d4 Fire damage and start burning.  
 
 Aggressive.  
 Drops: 5 cp  

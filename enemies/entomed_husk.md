@@ -1,4 +1,3 @@
-
 # [Entomed Husk](https://hollowknight.wiki/w/Entombed_Husk)
 
 *A large, withering, soulless husk of a human with orange eyes in brown rags.*
