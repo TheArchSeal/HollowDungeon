@@ -2,7 +2,7 @@
 
 * [Charm Notch](/charms/charm_notch.md)
 
-## Row 1
+---------------------------------------------------------
 
 * [Wayward Compass](/charms/wayward_compass.md)
 * [Gathering Swarm](/charms/gathering_swarm.md)
@@ -13,9 +13,9 @@
 * [Dashmaster](/charms/dashmaster.md)
 * [Sprintmaster](/charms/sprintmaster.md)
 * [Grubsong](/charms/grubsong.md)
-* [Grubberflys Elegy](/charms/grubberflys_elegy.md)
+* [Grubberfly's Elegy](/charms/grubberflys_elegy.md)
 
-## Row 2
+---------------------------------------------------------
 
 * [Fragile Heart](/charms/fragile_heart.md)
 * [Unbreakable Heart](/charms/unbreakable_heart.md)
@@ -31,7 +31,7 @@
 * [Mark of Pride](/charms/mark_of_pride.md)
 * [Fury of the Fallen](/charms/fury_of_the_fallen.md)
 
-## Row 3
+---------------------------------------------------------
 
 * [Thorns of Agony](/charms/thorns_of_agony.md)
 * [Baldur Shell](/charms/baldur_shell.md)
@@ -42,15 +42,15 @@
 * [Deep Focus](/charms/deep_focus.md)
 * [Lifeblood Heart](/charms/lifeblood_heart.md)
 * [Lifeblood Core](/charms/lifeblood_core.md)
-* [Jonis Blessing](/charms/jonis_blessing.md)
+* [Joni's Blessing](/charms/jonis_blessing.md)
 
-## Row 4
+---------------------------------------------------------
 
 * [Hiveblood](/charms/hiveblood.md)
 * [Spore Shroom](/charms/spore_shroom.md)
 * [Sharp Shadow](/charms/sharp_shadow.md)
 * [Shape of Unn](/charms/shape_of_unn.md)
-* [Nailmasters Glory](/charms/nailmasters_glory.md)
+* [Nailmaster's Glory](/charms/nailmasters_glory.md)
 * [Weaversong](/charms/weaversong.md)
 * [Dream Wielder](/charms/dream_wielder.md)
 * [Dreamshield](/charms/dreamshield.md)

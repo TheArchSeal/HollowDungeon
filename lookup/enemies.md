@@ -1,5 +1,10 @@
 # Enemies
 
+## Bosses
+
+* [Gruz Mother](/bosses/gruz_mother.md)
+* [False Knight](/bosses/false_night.md)
+
 ## Forgotten Crossroads
 
 * [Crawlid](/enemies/crawlid.md)
