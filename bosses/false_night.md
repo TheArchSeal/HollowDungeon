@@ -10,12 +10,12 @@
 
 | Ability | Score | Mod | Save |
 |:-------:|:-----:|:---:|:----:|
-| **Str** | 19    | +4  | +7   |
-| **Dex** | 11    | +0  | +0   |
+| **Str** | 18    | +4  | +7   |
+| **Dex** | 10    | +0  | +0   |
 | **Con** | 17    | +3  | +6   |
-| **Int** | 7     | -2  | -2   |
-| **Wis** | 7     | -2  | -2   |
-| **Cha** | 7     | -2  | -2   |
+| **Int** | 10    | +0  | +0   |
+| **Wis** | 10    | +0  | +0   |
+| **Cha** | 10    | +0  | +0   |
 
 **Skills** Athletics +7
 **Senses** Passive Perception 8  
@@ -23,7 +23,9 @@
 
 ## Traits
 
-**Armored.** False Knight has 47 (5d12 + 15) Armor Points. Whenever False Knight takes damage while not having the Stunned condition, the Armor Points takes the damage instead. If this damage reduces the Armor Points to or below 0 during a creatures turn, the armor points restore to their maximum, False Knight has the Stunned condition and its Armor Class becomes 10 until the start of that creatures next turn. Whenever False Knight loses the Stunned condition, it makes a Rage attack.
+**Armored.** False Knight has 47 (5d12 + 15) armor points. Whenever False Knight takes damage while not having the Stunned condition, the armor points takes the damage instead. If this damage reduces the armor points to or below 0 during a creatures turn, the armor points restore to their maximum, False Knight has the Stunned condition and its Armor Class becomes 10 until the start of that creatures next turn. Whenever False Knight loses the Stunned condition, it makes a Rage attack.
+
+**Persistent.** False Knight does not die when reduced to 0 hit points. At the start of its turn, if it has 0 or less hit points and does not have the Stunned condition, it dies.
 
 ## Actions
 
