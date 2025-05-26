@@ -1,10 +1,29 @@
 # [Aspid Hatchling](https://hollowknight.wiki/w/Aspid_Hatchling)
 
-*A tiny insect with an orange abdomen and no thorax.*
+*An insect with an orange abdomen and no thorax.*
 
-[Swarm Of Insects](https://5e.tools/bestiary.html#swarm%20of%20insects_xmm) with flying speed.  
-**Hp** 7 (1d8+3)  
-**Bites.** Melee Attack Roll: +1, reach 5 ft. Hit: 6 (2d4 + 1) Poison damage.  
+*Tiny Beast*
+**AC** 12  
+**HP** 7 (2d8 - 2)  
+**Speed** 20 ft. Fly 20 ft.  
+**Initiative** +2 (12)  
 
-Aggressive.  
-Drops: Nothing  
+| Ability | Score | Mod | Save |
+|:-------:|:-----:|:---:|:----:|
+| **Str** | 7     | -2  | -2   |
+| **Dex** | 15    | +2  | +2   |
+| **Con** | 9     | -1  | -1   |
+| **Int** | 1     | -5  | -5   |
+| **Wis** | 8     | -1  | -1   |
+| **Cha** | 2     | -4  | -4   |
+
+**Senses** Passive Perception 9  
+**CR** 1/4  
+**PB** +2  
+
+**Temper** Aggressive  
+**Drops** Nothing  
+
+## Actions
+
+**Bites.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage.

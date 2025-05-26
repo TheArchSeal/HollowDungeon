@@ -2,9 +2,34 @@
 
 *A swarm of insects with orange abdomen.*
 
-[Swarm Of Insects](https://5e.tools/bestiary.html#swarm%20of%20insects_xmm) with flying speed.  
-**HP** 32 (5d8+10)  
-**Spits.** Ranged Attack Roll: +5, reach 30 ft. Hit: 6 (2d4+1) Acid damage, or 3 (2d4+1) Acid damage if the swarm is Bloodied.  
+*Medium swarm of Tiny Beasts*  
+**AC** 14  
+**HP** 32 (5d8 + 10)  
+**Speed** 20 ft. Fly 20 ft.  
+**Initiative** +1 (11)  
 
-Aggressive.  
-Drops: 6 cp  
+| Ability | Score | Mod | Save |
+|:-------:|:-----:|:---:|:----:|
+| **Str** | 5     | -3  | -3   |
+| **Dex** | 18    | +4  | +4   |
+| **Con** | 14    | +2  | +2   |
+| **Int** | 1     | -5  | -5   |
+| **Wis** | 8     | -1  | -1   |
+| **Cha** | 2     | -4  | -4   |
+
+**Resistances** Bludgeoning, Piercing, Slashing
+**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+**Senses** Passive Perception 9  
+**CR** 1  
+**PB** +2  
+
+**Temper** Aggressive  
+**Drops** 6 cp  
+
+## Traits
+
+**Swarm.** The vengefly can occupy another creature's space and vice versa, and the vengefly can move through any opening large enough for a Tiny insect. The vengefly can't regain Hit Points or gain Temporary Hit Points.
+
+## Actions
+
+**Spits.** Ranged Attack Roll: +6, reach 30 ft. Hit: 13 (2d8+4) Acid damage, or 8 (1d8+4) Acid damage if the aspid is Bloodied.  
