@@ -2,8 +2,8 @@
 
 ## Categories
 
-* [Charms](/lookup/charms.md)
-* [Abilities](/lookup/abilities.md)
-* [Items](/lookup/items.md)
-* [NPCs](/lookup/npcs.md)
-* [Enemies](/lookup/enemies.md)
+* [Charms](/navigation/charms.md)
+* [Abilities](/navigation/abilities.md)
+* [Items](/navigation/items.md)
+* [NPCs](/navigation/npcs.md)
+* [Enemies](/navigation/enemies.md)
