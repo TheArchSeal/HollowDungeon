@@ -1,4 +1,4 @@
-# The Godseeker
+# [The Godseeker](https://hollowknight.wiki/w/Godseeker)
 
 *A female aasimar in a gray cloak and a golden crown.*
 

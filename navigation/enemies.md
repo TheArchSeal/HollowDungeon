@@ -1,6 +1,6 @@
 # Enemies
 
-## Bosses
+## Boss
 
 * [Gruz Mother](/bosses/gruz_mother.md)
 * [False Knight](/bosses/false_night.md)
