@@ -1,9 +1,5 @@
 # Charms
 
-* [Charm Notch](/charms/charm_notch.md)
-
----------------------------------------------------------
-
 * [Wayward Compass](/charms/wayward_compass.md)
 * [Gathering Swarm](/charms/gathering_swarm.md)
 * [Stalwart Shell](/charms/stalwart_shell.md)

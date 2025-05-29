@@ -12,6 +12,7 @@
 
 ## Upgrade
 
+* [Charm Notch](/charms/charm_notch.md)
 * [Pale Ore](/items/pale_ore.md)
 * [Mask Shard](/items/mask_shard.md)
 * [Vessel Fragment](/items/vessel_fragment.md)
