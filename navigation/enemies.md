@@ -6,6 +6,7 @@
 * [Gruz Mother](/bosses/gruz_mother.md)
 * [Vengefly King](/bosses/vengefly_king.md)
 * [Hornet Protector](/bosses/hornet_protector.md)
+* [Massive Moss Charger](/bosses/massive_moss_charger.md)
 
 ## Forgotten Crossroads
 

@@ -13,9 +13,9 @@
 | **Str** | 10    | +0  | +0   |
 | **Dex** | 17    | +3  | +3   |
 | **Con** | 15    | +2  | +2   |
-| **Int** | 5     | -1  | -3   |
-| **Wis** | 5     | -1  | -3   |
-| **Cha** | 5     | -1  | -3   |
+| **Int** | 5     | -3  | -3   |
+| **Wis** | 5     | -3  | -3   |
+| **Cha** | 5     | -3  | -3   |
 
 **Vulnerabilities** Fire  
 **Senses** Passive Perception 7  
