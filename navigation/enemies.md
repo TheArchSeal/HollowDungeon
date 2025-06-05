@@ -2,8 +2,9 @@
 
 ## Boss
 
-* [Gruz Mother](/bosses/gruz_mother.md)
 * [False Knight](/bosses/false_night.md)
+* [Gruz Mother](/bosses/gruz_mother.md)
+* [Vengefly King](/bosses/vengefly_king.md)
 
 ## Forgotten Crossroads
 
@@ -21,7 +22,7 @@
 * [Husk Bully](/enemies/husk_bully.md)
 * [Husk Warrior](/enemies/husk_warrior.md)
 * [Husk Guard](/enemies/husk_guard.md)
-* [Entomed Husk](/enemies/entomed_husk.md)
+* [Entombed Husk](/enemies/entombed_husk.md)
 * [Maggot](/enemies/maggot.md)
 * [Menderbug](/enemies/menderbug.md)
 * [Lifeseed](/enemies/lifeseed.md)
