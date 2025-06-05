@@ -21,5 +21,5 @@
 **CR** 0  
 **PB** +2  
 
-**Temper** Passive, flees when approached.  
+**Temper** Passive, flees when approached  
 **Drops** 2 cp  

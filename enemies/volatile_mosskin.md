@@ -1,13 +1,34 @@
 # [Volatile Mosskin](https://hollowknight.wiki/w/Volatile_Mosskin)
 
-*A perfectly intact, soulless husk of a forest gnome with orange eyes equipped with a club and a belt full of alchemist's fire.*
+*A perfectly intact, soulless husk of a forest gnome with orange eyes equipped with a belt full of alchemist's fire.*
 
-[Soldier](https://5e.tools/bestiary.html#soldier_ggr).  
 **AC** 14  
-**Gear** [Club](https://5e.tools/items.html#club_xphb)  
-**Multiattack.** -  
-**Greatclub.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) bludgeoning damage.  
-**Volitile.** On death: All creatures within 10 ft. take 1d4 Fire damage and start burning.  
+**HP** 27 (5d8 + 5)  
+**Speed** 20 ft.  
+**Initiative** +1 (11)  
 
-Aggressive.  
-Drops: 5 cp  
+| Ability | Score | Mod | Save |
+|:-------:|:-----:|:---:|:----:|
+| **Str** | 13    | +1  | +1   |
+| **Dex** | 12    | +1  | +1   |
+| **Con** | 12    | +1  | +1   |
+| **Int** | 10    | +0  | +0   |
+| **Wis** | 11    | +0  | +0   |
+| **Cha** | 11    | +0  | +0   |
+
+**Senses** Passive Perception 10  
+**CR** 1/2  
+**PB** +2  
+
+**Temper** Aggressive  
+**Drops** 5 cp  
+
+## Traits
+
+**Volatile.** After dying, all creatures within 5 feet take 7 (3d4) Fire damage and start burning.  
+
+## Actions
+
+**Multiattack.** The mosskin makes two Slam attacks.
+
+**Slam.** Melee Attack Roll: +3, reach 5 ft. Hit: 6 (1d10 + 1) Bludgeoning damage.

@@ -5,7 +5,7 @@
 *Huge Beast*
 **AC** 16
 **HP** 310 (20d20 + 100)  
-**Speed** 50 ft. Burrow 50 ft.  
+**Speed** 50 ft. Burrow 60 ft.  
 **Initiative** +4 (14)  
 
 | Ability | Score | Mod | Save |

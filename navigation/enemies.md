@@ -10,9 +10,9 @@
 ## Forgotten Crossroads
 
 * [Crawlid](/enemies/crawlid.md)
+* [Tiktik](/enemies/tiktik.md)
 * [Vengefly](/enemies/vengefly.md)
 * [Gruzzer](/enemies/gruzzer.md)
-* [Tiktik](/enemies/tiktik.md)
 * [Aspid Hunter](/enemies/aspid_hunter.md)
 * [Aspid Mother](/enemies/aspid_mother.md)
 * [Aspid Hatchling](/enemies/aspid_hatchling.md)
