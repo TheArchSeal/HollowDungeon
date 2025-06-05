@@ -2,6 +2,7 @@
 
 *A perfectly intact, soulless husk of a forest gnome with orange eyes equipped with a belt full of alchemist's fire.*
 
+*Medium Undead*  
 **AC** 14  
 **HP** 27 (5d8 + 5)  
 **Speed** 20 ft.  
@@ -25,7 +26,7 @@
 
 ## Traits
 
-**Volatile.** After dying, all creatures within 5 feet take 7 (3d4) Fire damage and start burning.  
+**Volatile.** After dying, all creatures within 5 feet take 7 (3d4) Fire damage and start burning.
 
 ## Actions
 

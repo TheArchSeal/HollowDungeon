@@ -2,7 +2,7 @@
 
 *A large, withering, soulless husk of a goliath with orange eyes in brown rags.*
 
-*Large Undead*
+*Large Undead*  
 **AC** 11  
 **HP** 58 (9d8 + 18)  
 **Speed** 20 ft.  
@@ -27,5 +27,6 @@
 
 ## Actions
 
-**Multiattack.** The mummy makes two Rotting Fist attacks.  
-**Rotting Fist.** Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Bludgeoning damage plus 10 (3d6) Necrotic damage.  
+**Multiattack.** The mummy makes two Rotting Fist attacks.
+
+**Rotting Fist.** Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Bludgeoning damage plus 10 (3d6) Necrotic damage.

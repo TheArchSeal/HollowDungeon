@@ -17,8 +17,8 @@
 | **Wis** | 8     | -1  | -1   |
 | **Cha** | 2     | -4  | -4   |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+**Resistances** Bludgeoning, Piercing, Slashing  
+**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned  
 **Senses** Passive Perception 9  
 **CR** 1  
 **PB** +2  
@@ -32,4 +32,4 @@
 
 ## Actions
 
-**Spits.** Ranged Attack Roll: +6, reach 30 ft. Hit: 13 (2d8+4) Acid damage, or 8 (1d8+4) Acid damage if the aspid is Bloodied.  
+**Spit.** Ranged Attack Roll: +6, reach 30 ft. Hit: 13 (2d8+4) Acid damage, or 8 (1d8+4) Acid damage if the aspid is Bloodied.

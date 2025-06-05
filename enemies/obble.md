@@ -2,7 +2,7 @@
 
 *A big spherical fly.*
 
-*Medium Beast*
+*Medium Beast*  
 **AC** 11  
 **HP** 37 (5d10 + 10)  
 **Speed** 20 ft. Fly 30 ft.  
@@ -28,4 +28,4 @@
 
 **Multiattack.** The obble makes up to three Spit attacks against different targets.
 
-**Spit.** Ranged Attack Roll: +3, reach 20 ft. Hit: 6 (2d4+1) Acid damage.  
+**Spit.** Ranged Attack Roll: +3, reach 20 ft. Hit: 6 (2d4+1) Acid damage.

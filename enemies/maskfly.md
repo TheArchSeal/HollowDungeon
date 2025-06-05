@@ -2,7 +2,7 @@
 
 *A bird.*
 
-*Tiny Beast*
+*Tiny Beast*  
 **AC** 11  
 **HP** 1 (1d4 - 1)  
 **Speed** 5 ft. Fly 60 ft.  

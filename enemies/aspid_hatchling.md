@@ -2,7 +2,7 @@
 
 *An insect with an orange abdomen and no thorax.*
 
-*Tiny Beast*
+*Tiny Beast*  
 **AC** 12  
 **HP** 7 (2d8 - 2)  
 **Speed** 20 ft. Fly 20 ft.  

@@ -2,7 +2,7 @@
 
 *A big beetle.*
 
-*Small Beast*
+*Small Beast*  
 **AC** 13  
 **HP** 37 (5d8 + 15)  
 **Speed** 20 ft. Climb 20 ft.  

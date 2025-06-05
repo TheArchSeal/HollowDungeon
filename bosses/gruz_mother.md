@@ -31,6 +31,6 @@
 
 **Multiattack.** Gruz Mother makes two Slam attacks and one Charge attack.
 
-**Slam.** Melee Weapon Attack: +6 to hit, reach 5 ft. Hit: 5 (1d6 + 3) Bludgeoning damage.
+**Slam.** Melee Weapon Attack: +6, reach 5 ft. Hit: 5 (1d6 + 3) Bludgeoning damage.
 
 **Charge.** Flies in a 30-foot-long, 10-foot-wide Line. Each creature in the Line makes a dexterity saving throw (DC 14). Failure: 10 (2d6 + 3) Bludgeoning damage.

@@ -2,7 +2,7 @@
 
 *A small, living cannonball.*
 
-*Small Construct*
+*Small Construct*  
 **AC** 15  
 **HP** 14 (4d6)  
 **Speed** 30 ft.  
@@ -17,7 +17,7 @@
 | **Wis** | 5     | -3  | -3   |
 | **Cha** | 1     | -5  | -5   |
 
-**Immunities** Poison, Psychic; Charmed, Poisoned
+**Immunities** Poison, Psychic; Charmed, Poisoned  
 **Senses** Passive Perception 7  
 **CR** 1/4  
 **PB** +2  

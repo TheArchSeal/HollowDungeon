@@ -17,8 +17,8 @@
 | **Wis** | 8     | -1  | -1   |
 | **Cha** | 2     | -4  | -4   |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+**Resistances** Bludgeoning, Piercing, Slashing  
+**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned  
 **Senses** Passive Perception 9  
 **CR** 1/2  
 **PB** +2  
@@ -28,7 +28,7 @@
 
 ## Traits
 
-**Flyby.** Doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.  
+**Flyby.** Doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.
 
 **Swarm.** The squit can occupy another creature's space and vice versa, and the squit can move through any opening large enough for a Tiny insect. The squit can't regain Hit Points or gain Temporary Hit Points.
 

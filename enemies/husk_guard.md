@@ -2,7 +2,7 @@
 
 *A large, perfectly intact, soulless husk of a goliath with orange eyes equipped with a club.*
 
-*Large Undead*
+*Large Undead*  
 **AC** 9  
 **HP** 85 (9d10 + 36)  
 **Speed** 30 ft.  

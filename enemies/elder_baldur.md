@@ -2,12 +2,7 @@
 
 *A large, living cannon.*
 
-[Animated Ballista](https://5e.tools/bestiary.html#animated%20ballista_wdmm).  
-**Speed** 0 ft.  
-**Vulnerabilities** Piercing  
-**Magic Bolt.** Additionally, roll a 1d4. On a 4, spawn a [Baldur](/enemies/baldur.md) next to the target.  
-
-*Large Construct*
+*Large Construct*  
 **AC** 15  
 **HP** 57 (5d20+5)  
 **Speed** 0 ft.  
@@ -23,7 +18,7 @@
 | **Cha** | 1     | -5  | -5   |
 
 **Resistances** Slashing, Bludgeoning  
-**Immunities** Poison, Psychic; Charmed, Poisoned
+**Immunities** Poison, Psychic; Charmed, Poisoned  
 **Senses** Passive Perception 7  
 **CR** 2  
 **PB** +2  

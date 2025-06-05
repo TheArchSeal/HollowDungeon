@@ -2,8 +2,8 @@
 
 *A large, living, stone statue of a spiky chestnut with insect-like wings.*
 
-*Huge Beast*
-**AC** 16
+*Huge Beast*  
+**AC** 16  
 **HP** 310 (20d20 + 100)  
 **Speed** 30 ft. Fly 60 ft.  
 **Initiative** +4 (14)  

@@ -2,7 +2,7 @@
 
 *A giant fly with an orange abdomen.*
 
-*Medium Beast*
+*Medium Beast*  
 **AC** 10  
 **HP** 60 (8d10 + 16)  
 **Speed** 10 ft. Fly 10 ft.  
@@ -26,8 +26,8 @@
 
 ## Traits
 
-**Mother.** After dying, Aspid Mother summons 2 (1d4) [Aspid Hatchling](/enemies/aspid_hatchling.md) within 5 feet.*  
+**Mother.** After dying, Aspid Mother summons 2 (1d4) [Aspid Hatchling](/enemies/aspid_hatchling.md) within 5 feet.*
 
 ## Actions
 
-**Births.** Summons one [Aspid Hatchling](/enemies/aspid_hatchling.md) within 5 feet.*  
+**Births.** Summons one [Aspid Hatchling](/enemies/aspid_hatchling.md) within 5 feet.*

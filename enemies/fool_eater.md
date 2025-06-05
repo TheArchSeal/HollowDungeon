@@ -16,8 +16,8 @@
 | **Wis** | 10    | +0  | +0   |
 | **Cha** | 2     | -4  | -4   |
 
-**Immunities** Blinded, Deafened, Prone
-**Senses** Tremorsense 30 ft., Passive Perception 10
+**Immunities** Blinded, Deafened, Prone  
+**Senses** Tremorsense 30 ft., Passive Perception 10  
 **CR** 1  
 **PB** +2  
 

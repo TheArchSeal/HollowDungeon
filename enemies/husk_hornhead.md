@@ -2,7 +2,7 @@
 
 *A perfectly intact, soulless husk of a human with orange eyes equipped with a honed helmet.*
 
-*Medium Undead*
+*Medium Undead*  
 **AC** 9  
 **HP** 22 (3d8 + 9)  
 **Speed** 40 ft.  

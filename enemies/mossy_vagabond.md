@@ -2,7 +2,7 @@
 
 *A slightly mad forest gnome.*
 
-*Medium Humanoid*
+*Medium Humanoid*  
 **AC** 10  
 **HP** 4 (1d8)  
 **Speed** 30 ft.  

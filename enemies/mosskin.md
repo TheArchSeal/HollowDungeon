@@ -2,8 +2,7 @@
 
 *A perfectly intact, soulless husk of a forest gnome with orange eyes.*
 
-[Soldier](https://5e.tools/bestiary.html#soldier_ggr).  
-
+*Medium Undead*  
 **AC** 14  
 **HP** 27 (5d8 + 5)  
 **Speed** 20 ft.  

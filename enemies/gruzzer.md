@@ -2,7 +2,7 @@
 
 *A big housefly.*
 
-*Medium Beast*
+*Medium Beast*  
 **AC** 11  
 **HP** 37 (5d10 + 10)  
 **Speed** 20 ft. Fly 30 ft.  

@@ -2,7 +2,7 @@
 
 *A wide, perfectly intact, soulless husk of a human with orange eyes.*
 
-*Medium Undead*
+*Medium Undead*  
 **AC** 8  
 **HP** 25 (3d8 + 12)  
 **Speed** 15 ft.  

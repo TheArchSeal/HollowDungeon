@@ -34,6 +34,6 @@
 
 **Leap.** False Knight jumps up to 30 feet next to a creature and makes a Slam attack against it.
 
-**Slam.** Melee Weapon Attack: +7 to hit, reach 10 ft. Hit: 13 (2d8 + 4) Bludgeoning damage.
+**Slam.** Melee Weapon Attack: +7, reach 10 ft. Hit: 13 (2d8 + 4) Bludgeoning damage.
 
 **Rage.** Dexterity Saving Throw: DC 14, each creature within 10 feet. Failure: 13 (2d8 + 4) Bludgeoning damage and is pushed 10 feet away. Success: Half damage. Additionally, 3 (1d6) barrels fall from the sky, landing at the beginning of False Knights next turn. Each creature hit by a barrel takes 7 (2d4 + 2) Bludgeoning damage.

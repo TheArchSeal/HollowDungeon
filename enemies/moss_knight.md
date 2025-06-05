@@ -2,7 +2,7 @@
 
 *A large, living tree equipped with a longsword and shield.*
 
-*Large Plant*
+*Large Plant*  
 **AC** 15  
 **HP** 76 (9d10 + 27)  
 **Speed** 30 ft.  
@@ -27,4 +27,4 @@
 
 ## Actions
 
-**Longsword.** Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage.  
+**Longsword.** Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage.

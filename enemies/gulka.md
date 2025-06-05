@@ -2,7 +2,7 @@
 
 *A small, living plant with a reverse funnel pointing upwards.*
 
-*Small Plant*
+*Small Plant*  
 **AC** 11  
 **HP** 32 (5d12)  
 **Speed** 0 ft.  

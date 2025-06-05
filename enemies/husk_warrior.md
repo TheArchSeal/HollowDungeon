@@ -2,7 +2,7 @@
 
 *A perfectly intact, soulless husk of a human with orange eyes equipped with a scimitar and shield.*
 
-*Medium Undead*
+*Medium Undead*  
 **AC** 14 (Shield)  
 **HP** 22 (3d8 + 9)  
 **Speed** 20 ft.  
@@ -33,7 +33,7 @@
 
 **Multiattack.** The husk makes two Scimitar attacks.
 
-**Scimitar.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage.  
+**Scimitar.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage.
 
 Aggressive.  
 Drops: 6 cp  

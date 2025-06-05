@@ -2,8 +2,8 @@
 
 *A huge, living, stone statue of a spiky chestnut with six long legs.*
 
-*Huge Beast*
-**AC** 16
+*Huge Beast*  
+**AC** 16  
 **HP** 310 (20d20 + 100)  
 **Speed** 30 ft. Swim 60 ft.  
 **Initiative** +4 (14)  

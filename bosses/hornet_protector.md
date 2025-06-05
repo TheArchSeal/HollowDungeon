@@ -31,8 +31,8 @@
 
 **Multiattack.** Hornet makes two Lunge attacks and either one Throw attack or Gossamer Storm.
 
-**Lunge.** Melee Weapon Attack: +7 to hit, reach 5 ft. Hit: 9 (1d10 + 4) Piercing damage.
+**Lunge.** Melee Weapon Attack: +7, reach 5 ft. Hit: 9 (1d10 + 4) Piercing damage.
 
-**Throw.** Ranged Weapon Attack: +7 to hit, reach 40 ft. Hit: 9 (1d10 + 4) Piercing damage.
+**Throw.** Ranged Weapon Attack: +7, reach 40 ft. Hit: 9 (1d10 + 4) Piercing damage.
 
 **Gossamer Storm.** Hornet conjures spinning daggers in a 5-foot-radius Sphere centered on herself. Each other creature in that area takes 15 (6d4) Slashing damage. A creature also takes this damage if it enters the Cube or ends its turn there. A creature takes this damage only once per turn. The sphere disappears at the start of her next turn.
