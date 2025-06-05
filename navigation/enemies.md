@@ -5,6 +5,7 @@
 * [False Knight](/bosses/false_night.md)
 * [Gruz Mother](/bosses/gruz_mother.md)
 * [Vengefly King](/bosses/vengefly_king.md)
+* [Hornet Protector](/bosses/hornet_protector.md)
 
 ## Forgotten Crossroads
 
